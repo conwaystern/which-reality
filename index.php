@@ -4,6 +4,7 @@
 </head>
  
   
+  
 <body>
 <h1> Server Information</h1>
 <?php 
